@@ -1,5 +1,7 @@
 *text_to_midi.pyw*                 - generate a midi file from notes in input_notes.txt, they must follow certain formatting rules (see below)
+
 *play.pyw*                         - automatically call text_to_midi.pyw and will then play the resulting output.midi
+
 *input_saver.pyw/output_saver.pyw* - save their respective files to an archive file within this directory.
 
 
