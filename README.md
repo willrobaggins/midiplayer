@@ -1,6 +1,6 @@
-text_to_midi.pyw will generate a midi file from notes in input_notes.txt, they must follow certain formatting rules (see below)
-play.pyw will automatically call text_to_midi.pyw and will then play the resulting output.midi
-input_saver.pyw and output_saver.pyw, both save their respective files to an archive file within this directory.
+text_to_midi.pyw                 - generate a midi file from notes in input_notes.txt, they must follow certain formatting rules (see below)
+play.pyw                         - automatically call text_to_midi.pyw and will then play the resulting output.midi
+input_saver.pyw/output_saver.pyw - save their respective files to an archive file within this directory.
 
 
 HOW TO FORMAT
