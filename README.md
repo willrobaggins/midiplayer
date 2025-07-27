@@ -5,6 +5,9 @@
 *input_saver.pyw/output_saver.pyw* - save their respective files to an archive file within this directory.
 
 
+
+
+
 **HOW TO FORMAT**
 
 To use the midiplayer, simply input notes you would like to play in the order you would like to hear them. You can indicate octaves and specify a rhythmic pattern using spaces.
